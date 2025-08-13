@@ -45,3 +45,8 @@ Titre : Bâtiment : risques techniques et naturels, comprendre et agir
 Texte : Comprendre les enjeux (techniques, climatiques...) et mieux connaître les grands principes dans le domaine de la construction Être alerté sur les principaux risques (techniques, naturels, organisationnels, parfois juridiques, pathologiques futures...) Connaître les moyens de prévention et en particulier avoir les recommandations sur la conception et la mise en oeuvre, découvrir des bonnes pratiques transversales (compétences, organisation, interfaces...), être sensibilisés à l'entretien/maintenance etc.
 Lien : https://www.mooc-batiment-durable.fr/fr/formations/mooc-batiment-risques-techniques-naturels-comprendre-et-agir/
 ```
+
+## Pour aller plus loin
+- Créer une interface graphique avec Streamlit, afin de permettre à l’utilisateur de saisir une question et d’afficher les résultats de la recherche sémantique de façon interactive, sans passer par le terminal.
+- Adapter le scraper pour collecter du contenu depuis d’autres plateformes de cours en ligne ou sites documentaires.
+- Tester d'autres modèle d'embeddings, pour améliorer la qualité des résultats
