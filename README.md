@@ -36,6 +36,7 @@ client = QdrantClient(
 ```
 Comment prévenir les risques techniques dans la construction ?
 ```
+- Sortie :
 --- Résultats de la recherche ---
 ```
 Score : 0.6044
