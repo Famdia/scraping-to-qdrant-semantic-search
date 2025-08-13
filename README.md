@@ -13,7 +13,8 @@ Ce projet est un outil de scraping web avec génération d'embeddings NLP, stock
 ```
 git clone https://github.com/Famdia/scraping-to-qdrant-semantic-search.git
 ```
-Le fichier est un notebook colab, donc inutile d'installer les dépendances manuellement, car sa première cellule installe automatique les bibliothèques nécessaires. Il suffit de décommenter la première ligne pour une première excécution et ensuite la recommenter pour éviter de reproduire les installations à chaque excécution.
+Ce projet est fourni sous forme de notebook Colab. L’installation des dépendances est déjà prévue dans la première cellule. Pour une première exécution, il suffit de décommenter la ligne correspondante, puis de la remettre en commentaire afin d’éviter de réinstaller les bibliothèques à chaque lancement.
+
 ```
 !pip install beautifulsoup4 requests sentence-transformers qdrant-client
 ```
