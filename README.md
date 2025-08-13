@@ -38,8 +38,8 @@ client = QdrantClient(
 Comment prévenir les risques techniques dans la construction ?
 ```
 - Sortie :
---- Résultats de la recherche ---
 ```
+--- Résultats de la recherche ---
 Score : 0.6044
 Titre : Bâtiment : risques techniques et naturels, comprendre et agir
 Texte : Comprendre les enjeux (techniques, climatiques...) et mieux connaître les grands principes dans le domaine de la construction Être alerté sur les principaux risques (techniques, naturels, organisationnels, parfois juridiques, pathologiques futures...) Connaître les moyens de prévention et en particulier avoir les recommandations sur la conception et la mise en oeuvre, découvrir des bonnes pratiques transversales (compétences, organisation, interfaces...), être sensibilisés à l'entretien/maintenance etc.
